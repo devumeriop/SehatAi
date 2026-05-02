@@ -1,0 +1,12 @@
+{
+  "name": "SehatGuard AI",
+  "description": "A specialized AI healthcare assistant for Pakistan, featuring a Medicine Scanner, Symptom Checker, and Nutrition Guide.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Vision Analysis",
+    "Conversational Diagnosis",
+    "Nutrition Planning"
+  ]
+}
